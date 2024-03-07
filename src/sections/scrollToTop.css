@@ -1,0 +1,19 @@
+.scroll {
+  color: white;
+  padding: 0.7rem 0.7rem;
+  background-color: #f01b1b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+}
+
+.scroll:hover {
+  color: white;
+  background-color: black;
+  transform: scale(1.1);
+}
