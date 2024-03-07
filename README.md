@@ -4,7 +4,7 @@ React-shoe-store-Practice
 
 ## Demo :
 
-https://react-shoe-store.netlify.app/
+https://react-shoe-store-practice.netlify.app/
 
 ## Features:
 
